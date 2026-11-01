@@ -1,0 +1,6 @@
+{
+  "name": "Central de TV Pro Ultimate",
+  "description": "Aplicativo completo de streaming para Android, Android TV e Google TV com TV ao vivo, filmes, séries, listas M3U/M3U8 e player profissional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

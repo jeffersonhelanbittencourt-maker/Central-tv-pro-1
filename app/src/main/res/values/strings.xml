@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Central TV Pro</string>
+    <string name="app_full_name">Central de TV Pro Ultimate</string>
+    <string name="menu_home">Início</string>
+    <string name="menu_live_tv">TV ao vivo</string>
+    <string name="menu_channels">Canais</string>
+    <string name="menu_categories">Categorias</string>
+    <string name="menu_movies">Filmes</string>
+    <string name="menu_series">Séries</string>
+    <string name="menu_sports">Esportes</string>
+    <string name="menu_kids">Infantil</string>
+    <string name="menu_news">Notícias</string>
+    <string name="menu_religious">Religiosos</string>
+    <string name="menu_favorites">Favoritos</string>
+    <string name="menu_recently_watched">Assistidos recentemente</string>
+    <string name="menu_search">Pesquisar</string>
+    <string name="menu_playlist">Lista de reprodução</string>
+    <string name="action_add_playlist">Adicionar playlist</string>
+    <string name="action_import_playlist">Importar playlist</string>
+    <string name="action_refresh_playlist">Atualizar playlist</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="label_language">Idioma</string>
+    <string name="menu_about">Sobre o aplicativo</string>
+    <string name="msg_loading">Carregando</string>
+    <string name="action_retry">Tentar novamente</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_save">Salvar</string>
+    <string name="action_delete">Excluir</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_close">Fechar</string>
+    <string name="label_error">Erro</string>
+    <string name="error_connection_failed">Falha na conexão</string>
+    <string name="msg_no_channels_found">Nenhum canal encontrado</string>
+    <string name="confirm_delete_playlist">Deseja excluir esta lista de reprodução?</string>
+    <string name="confirm_clear_history">Deseja limpar o histórico?</string>
+    <string name="action_clear">Limpar</string>
+</resources>
